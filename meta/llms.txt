@@ -1,0 +1,16 @@
+# CircuitSavvy
+
+> Delaware student program teaching hands-on aerospace engineering through NASA TechRise payload design.
+
+CircuitSavvy is a student-led program in Delaware that gives students hands-on aerospace engineering experience. Students learn how space payloads work, brainstorm original experiment ideas, draft full NASA TechRise Student Challenge proposals, and have the chance to launch their experiment to space if awarded a grant. Program impact: 45 students, 700+ hours of learning, and 4 NASA aerospace engineering proposals.
+
+The program was founded by Ameet Rao, a 17-year-old student from Delaware, to lower the barrier to entry to engineering and bring STEM opportunities to areas without the resources.
+
+## Pages
+
+- [Home](https://circuitsavvy.org/): CircuitSavvy — Delaware Aerospace Engineering for Students. Program overview, impact stats, the four-step process (Learning, Brainstorming, Drafting, Creating), the team, and contact information.
+
+## Contact
+
+- Email: hello@circuitsavvy.org
+- Founder: Ameet Rao — https://ameetrao.com — https://www.linkedin.com/in/ameetrao

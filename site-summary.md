@@ -12,7 +12,7 @@ pages/
   index.html             ← raw server-rendered HTML of https://circuitsavvy.org/
   _404-error-page.html   ← what the server returns for any unknown path
 meta/
-  sitemap.xml, robots.txt
+  sitemap.xml, robots.txt, llms.txt
 assets/
   images/   11 unique images (renamed descriptively; see §9)
   css/      site-styles-tailwind.css (compiled Tailwind v4 + theme tokens)
@@ -47,6 +47,8 @@ The sitemap lists **one URL**, and the JS router defines **one route (`/`)**. It
 Probed paths that return 404: `/about`, `/team`, `/contact`, `/index.html`, `/favicon.ico`, `/apple-touch-icon.png`, `/manifest.json`, `/site.webmanifest`.
 
 `robots.txt` allows all crawlers (Googlebot, Bingbot, Twitterbot, facebookexternalhit, `*`) and points to the sitemap.
+
+`llms.txt` (a plain-text summary for AI tools) also lists just the one Home page. It summarizes the program (the 4-step process and the impact numbers), the founder, and contact details (hello@circuitsavvy.org, ameetrao.com, LinkedIn). It says nothing that isn't already on the homepage.
 
 ---
 
@@ -346,7 +348,7 @@ There are no CSS background images, SVG files or icon sprites. All icons (arrows
 17. The footer has no links: no email, socials, privacy policy or nav repeat.
 
 ### Checked and fine
-- `sitemap.xml` and `robots.txt` are valid and consistent with the single-page site.
+- `sitemap.xml`, `robots.txt` and `llms.txt` are valid and consistent with the single-page site. `llms.txt` spells "opportunities" correctly, so the typo is only on the live page.
 - All 11 image URLs, the CSS, JS, fonts and OG image return **200**.
 - The canonical URL, OG tags, Twitter card and JSON-LD are all present.
 - The external link `ameetrao.com` returns 200. The LinkedIn URL can't be checked by script because it returns 999 to bots, which is normal.
