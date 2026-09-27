@@ -334,7 +334,7 @@ There are no CSS background images, SVG files or icon sprites. All icons (arrows
 7. **The Process section isn't in the nav.** The header links only Impact, Team and Contact.
 8. **Page titles don't match.** The homepage uses "…Delaware Aerospace Engineering for Students" and the 404 page uses "…Aerospace STEM for Delaware Students".
 
-### Privacy (the students appear to be minors)
+### Privacy (student names)
 9. The **proposal-table screenshot** (Process step 3) shows two students' **full names** and their proposal text. The **laptop photo** (carousel slide 2) shows name tags with full names, and the **whiteboard** shows first names. Consider blurring these or confirming consent.
 
 ### Technical and performance
