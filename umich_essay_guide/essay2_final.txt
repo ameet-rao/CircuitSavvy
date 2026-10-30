@@ -1,0 +1,15 @@
+Ten seconds left in the semifinals of my state robotics championship, and our robot crashed into a wall and lost power. The rules didn’t allow drivers, like myself, to reach in. We watched our robot die until the final buzzer. On the drive home, I kept asking: How do you build a machine that fixes itself?
+
+Then the Google Maps refresh lagged. The blue dot froze on the highway while my exit slid past on the right. The satellite-powered GPS I relied on every day had just made me miss my exit. Better yet, I thought, how do you make a flying machine like a satellite fix itself?
+
+As an aerospace engineering major at UMich, I will build spacecraft that repair themselves, so everything we send beyond Earth keeps working and brings more back to us.
+
+I learn best by building, and Michigan Engineering teaches the same way. By senior year, I hope to take Professor James Cutler’s CubeSat Flight Lab and work beside students in the Michigan Exploration Lab, which has developed nine CubeSat missions. But to build machines that fix themselves, I first have to learn how machines are controlled. In AEROSP 470, Control of Aerospace Vehicles, I’ll learn to keep a spacecraft on course. When I read Professor Dimitra Panagou’s research on safe and resilient autonomy, I realized she was asking the question I asked on that drive home.
+
+I also value Michigan Engineering’s team-research initiatives. In the Multidisciplinary Design Program, I can join five to seven students from across UMich’s schools and colleges to solve a real client’s problem and earn academic credit. Through the International Minor for Engineers, I will spend six weeks abroad, because the satellites I hope to build serve people on every continent.
+
+Outside the classroom, I want to build on Michigan’s engineering community. At the Wilson Student Team Project Center, I’d propose a student-led project called AutoLite, a satellite that detects its own failures and recovers. I’d pull in students from mechanical engineering, computer science, and the Stamps School of Art & Design, because understanding the whole system, from hardware to software to the human operator on the ground, takes all of them.
+
+I also plan to volunteer with the CubeSat Demonstration Program, helping students without engineering experience build a satellite from scratch. Maybe one day, they’ll invent something new with it. Between building and volunteering, I’ll play intramural basketball at the IMSB, where I can keep practicing how to stay calm with ten seconds left.
+
+At the state championship, I couldn’t reach in. At Michigan, I will learn how. I will be the engineer who enables humanity to keep reaching beyond Earth and bring more back home.
